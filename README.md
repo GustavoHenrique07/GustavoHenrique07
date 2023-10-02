@@ -30,4 +30,4 @@
 <a target="_blank" href="https://www.linkedin.com/in/gustavo-henrique-chaves-de-carvalho-b990b6276/"> <img height="30" width="115" alt="Linkedin-Gustavo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
-
+<hr>
