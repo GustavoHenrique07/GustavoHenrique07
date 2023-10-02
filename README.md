@@ -1,3 +1,4 @@
+<hr>
 <h1> Olá,👋 Eu sou Gustavo Henrique Chaves de Carvalho </h1>
 
 [![Gustavo Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenrique07&hide=issues&icons=true&theme=dark)](https://github.com/GustavoHenrique07/github-readme-stats)
