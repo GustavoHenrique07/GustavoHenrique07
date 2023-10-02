@@ -12,7 +12,7 @@
 <hr>
 
 <h3>
-  - Estudando: <br>
+  - Estudando: 
 </h3>
 
 <div>
