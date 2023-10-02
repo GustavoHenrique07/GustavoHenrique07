@@ -1,8 +1,8 @@
 <hr>
 <h1> Olá,👋 Eu sou Gustavo Henrique Chaves de Carvalho </h1>
 
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/GustavoHenrique07/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenrique07)](https://github.com/GustavoHenrique07/github-readme-stats)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenrique07&show_icons=true)
 
 
 
