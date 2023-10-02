@@ -5,7 +5,7 @@
 
   Here are some ideas to get you started:
 <h3>
-- 🔭 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+- 🔭 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará. <br>
 - 🌱 Aprendendo Java e JS.
 </h3>
 
