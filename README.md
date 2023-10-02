@@ -13,7 +13,7 @@
 
 <h3>
   - Estudando: 
-</h3>
+
 
 <div>
   <br>
