@@ -1,8 +1,8 @@
 <hr>
 <h1> Olá,👋 Eu sou Gustavo Henrique Chaves de Carvalho </h1>
 
-[![Gustavo Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenrique07&hide=issues&icons=true&theme=cobalt)](https://github.com/GustavoHenrique07/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenrique07&layout=compact&theme=cobalt)](https://github.com/GustavoHenrique07/github-readme-stats)
+[![Gustavo Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenrique07&hide=issues&icons=true&theme=tokyonight)](https://github.com/GustavoHenrique07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenrique07&layout=compact&theme=tokyonight)](https://github.com/GustavoHenrique07/github-readme-stats)
 
 <h2>
 - 🔭 Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará. <br>
