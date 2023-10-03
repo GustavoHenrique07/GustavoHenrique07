@@ -29,7 +29,7 @@
   </div>
   </ul>
 
-<ul>
+<ul alignitens="coluns">
 <h3 align="center">
   - Ferramentas: 
 <div align="center">
