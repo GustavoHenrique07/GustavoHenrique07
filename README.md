@@ -2,7 +2,7 @@
 <h1> Olá,👋 Eu sou Gustavo Henrique Chaves de Carvalho </h1>
 
 <a href="https://github.com/GustavoHenrique07/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHenrique07&show_icons=true&theme=tokyonight"/>
 </a>
 
 
