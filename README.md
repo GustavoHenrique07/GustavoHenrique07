@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD75DF&height=120&section=header"/>
+
+
 <hr>
 <h1> Olá,👋 Eu sou Gustavo Henrique Chaves de Carvalho </h1>
 
@@ -33,3 +36,4 @@
 
 </div>
 <hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD75DF&height=120&section=footer"/>
