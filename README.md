@@ -17,7 +17,7 @@
 
 <hr>
 <ul>
-<h3 align="center">
+<h3>
   - Estudando: 
 <div align="center">
   <br>
