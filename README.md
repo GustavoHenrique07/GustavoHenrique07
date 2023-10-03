@@ -1,4 +1,4 @@
-<body align="center">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
 
@@ -16,7 +16,7 @@
 </h2>
 
 <hr>
-
+<ul>
 <h3 align="center">
   - Estudando: 
 <div align="center">
@@ -27,6 +27,21 @@
   <img align= "center" alt="Gustavo-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </h3>
   </div>
+  </ul>
+
+<ul>
+<h3 align="center">
+  - Ferramentas: 
+<div align="center">
+  <br>
+  <img align="center" alt="Gustavo-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Gustavo-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Gustavo-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align= "center" alt="Gustavo-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</h3>
+  </div>
+  </ul>
+ 
   <hr>
 
   <h3>Contatos:</h3>
@@ -38,4 +53,3 @@
 </div>
 <hr>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c005c&height=120&section=footer"/>
-</body>
