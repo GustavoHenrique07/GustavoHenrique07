@@ -29,6 +29,10 @@
   <img align= "center" alt="Gustavo-JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
   </div>
+
+<h3>Ferramentas:</h3>
+  ![ Visual Studio ] (https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+  ![ Eclipse] (https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   
   <hr>
 
